@@ -1,3 +1,7 @@
+/**
+ * Final Submission, TU-Java-Session1-StudentGradeAnalyzer
+ */
+
 class Student {
     private String name;
     private int score;
